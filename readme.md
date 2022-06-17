@@ -1,4 +1,4 @@
-# Hi Humans<img src = "24S3.gif" align = "center" height = "8%" width ="8%">
+# Hi Humans<img src = "https://raw.githubusercontent.com/GrimInside/GrimInside/main/24S3.gif" align = "center" height = "8%" width ="8%">
 
 
 My Name is Saurabh (Alias @GrimInside : use this handle to find me on social platforms) 
