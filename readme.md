@@ -39,5 +39,5 @@ My Name is Saurabh (Alias @GrimInside : use this handle to find me on social pla
 
  <h2>Github Stats <img src="https://aoenexus.com/assets/loader.gif" width= 2% ></h2>
  
- | ![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=griminside&show_icons=true&theme=dark) | ![Saurabh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=griminside&theme=dark) |
+ | ![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=saurabh-kumar-rai&show_icons=true&theme=dark) | ![Saurabh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurabh-kumar-rai&theme=dark) |
 | --- | --- |
